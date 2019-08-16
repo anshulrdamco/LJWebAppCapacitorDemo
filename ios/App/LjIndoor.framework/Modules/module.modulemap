@@ -1,0 +1,11 @@
+framework module LjIndoor {
+  umbrella header "LjIndoor.h"
+
+  export *
+  module * { export * }
+}
+
+module LjIndoor.Swift {
+    header "LjIndoor-Swift.h"
+    requires objc
+}

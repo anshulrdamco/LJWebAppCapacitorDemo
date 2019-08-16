@@ -1,0 +1,7 @@
+{
+  "appId": "com.logicjunction.ljwebapp",
+  "appName": "ljwebapp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

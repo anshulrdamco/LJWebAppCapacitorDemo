@@ -1,5 +1,7 @@
 {
   "name": "LJWebApp",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

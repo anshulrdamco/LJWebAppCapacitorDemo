@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="el_ybviytcd3y" viewBox="0 0 150 150">
+   <style>@-webkit-keyframes el_OvHV25YChi_Animation{0%{opacity: 0.8;}50%{opacity: 1;}100%{opacity: 0.8;}}
+@keyframes el_OvHV25YChi_Animation{0%{opacity: 0.8;}50%{opacity: 1;}100%{opacity: 0.8;}}
+@-webkit-keyframes el_OvHV25YChi_DAk2iqkgL_Animation{0%{-webkit-transform: scale(0.8, 0.8);transform: scale(0.8, 0.8);}50%
+{-webkit-transform: scale(1, 1);transform: scale(1, 1);}100%{-webkit-transform: scale(0.8, 0.8);transform: scale(0.8, 0.8);}}
+@keyframes el_OvHV25YChi_DAk2iqkgL_Animation{0%{-webkit-transform: scale(0.8, 0.8);transform: scale(0.8, 0.8);}50%
+{-webkit-transform: scale(1, 1);transform: scale(1, 1);}100%{-webkit-transform: scale(0.8, 0.8);transform: scale(0.8, 0.8);}}@-webkit-keyframes el_80-cYsH0CV_Animation{0%{opacity: 1;}50%{opacity: 0.85;}100%{opacity: 1;}}@keyframes el_80-cYsH0CV_Animation{0%{opacity: 1;}50%{opacity: 0.85;}100%{opacity: 1;}}@-webkit-keyframes el_80-cYsH0CV_rED4SfotR_Animation{0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}100%{-webkit-transform: rotate(359deg);transform: rotate(359deg);}}@keyframes el_80-cYsH0CV_rED4SfotR_Animation{0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}100%{-webkit-transform: rotate(359deg);transform: rotate(359deg);}}#el_ybviytcd3y *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_80-cYsH0CV{fill: url(#linear-gradient);-webkit-animation-name: el_80-cYsH0CV_Animation;animation-name: el_80-cYsH0CV_Animation;-webkit-animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);}#el_OvHV25YChi{fill: #fff;-webkit-transform: translate(0.01875px, -0.38036px);transform: translate(0.01875px, -0.38036px);-webkit-animation-name: el_OvHV25YChi_Animation;animation-name: el_OvHV25YChi_Animation;-webkit-animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);}#el_80-cYsH0CV_rED4SfotR{-webkit-animation-name: el_80-cYsH0CV_rED4SfotR_Animation;animation-name: el_80-cYsH0CV_rED4SfotR_Animation;-webkit-animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;}#el_OvHV25YChi_DAk2iqkgL{-webkit-animation-name: el_OvHV25YChi_DAk2iqkgL_Animation;animation-name: el_OvHV25YChi_DAk2iqkgL_Animation;-webkit-animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;}</style>
+   <defs>
+      <linearGradient id="linear-gradient" y1="166" x2="332" y2="166" gradientUnits="userSpaceOnUse">
+         <stop offset="0" stop-color="#79d0ff" />
+         <stop offset="1" stop-color="#2e7ff4" />
+      </linearGradient>
+   </defs>
+   <title>blue-rotator-to-export</title>
+   <g transform="scale( 0.275 )">
+   <g id="el_80-cYsH0CV_rED4SfotR" data-animator-group="true" data-animator-type="1">
+      <circle id="el_80-cYsH0CV" cx="166" cy="166" r="166" />
+   </g>
+   <g id="el_OvHV25YChi_DAk2iqkgL" data-animator-group="true" data-animator-type="2">
+      <path id="el_OvHV25YChi" d="M276.25641,133.744l-103.337-99.04187a9.99993,9.99993,0,0,0-13.83886,0L55.74359,133.744A10,10,0,0,0,62.663,150.9635h55.63764V291.47443a10.0294,10.0294,0,0,0,10,10h74.66669a10.0294,10.0294,0,0,0,10-10V150.9635H269.337A10,10,0,0,0,276.25641,133.744Z" />
+   </g>
+   </g>
+   <script>(function(){var a=document.querySelector('#el_ybviytcd3y'),b=a.querySelectorAll('style'),c=function(d){b.forEach(function(f){var g=f.textContent;g&amp;&amp;(f.textContent=g.replace(/transform-box:[^;\r\n]*/gi,'transform-box: '+d))})};c('initial'),window.requestAnimationFrame(function(){return c('fill-box')})})();</script>
+</svg>
